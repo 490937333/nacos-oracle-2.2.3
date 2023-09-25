@@ -1,5 +1,5 @@
 # nacos-oracle-2.2.3
-# nacos2.2.3改造成oracle11g版本 windows单机版本
+# nacos2.2.3改造成oracle11g版本 windows单机版本 Releases下载开箱即用
 1、导入sql文件
 #
 2、修改数据库配置文件路径：nacos\conf\application.properties
